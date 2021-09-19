@@ -1,0 +1,377 @@
+**+++ Necron Incursion (Warhammer 40,000 9th Edition) [48 PL, 6CP, 955pts] +++**
+
+&nbsp;
+
+**++ Patrol Detachment 0CP (Necrons) [48 PL, 6CP, 955pts] ++**
+
+**Rules:** *Dynastic Agents and Star Gods, The Royal Court*
+
+&nbsp;
+
+**+ Configuration [6CP] +**
+
+&nbsp;
+
+**[Reference] Command Protocols (All)**
+
+. **Categories:** *Configuration*
+
+. **Rules:** *Command Protocols - Protocol of the Conquering Tyrant, Command Protocols - Protocol of the Eternal Guardian, Command Protocols - Protocol of the Hungry Void, Command Protocols - Protocol of the Sudden Storm, Command Protocols - Protocol of the Undying Legions, Command Protocols - Protocol of the Vengeful Stars*
+
+. **Reference:** *Command Protocols*
+
+**Profiles:**
+
+. **Command Protocols:** Description:Command Protocols are shown in summary at the bottom of the list output.|Codex: Necrons p81
+
+&nbsp;
+
+**[Reference] Necron Secondary Objectives (All)**
+
+. **Categories:** *Configuration*
+
+. **Rules:** *Secondary Objective - Ancient Machineries, Secondary Objective - Code of Combat, Secondary Objective - Purge the Vermin, Secondary Objective - The Treasures of Aeons*
+
+. **Reference:** *Necron Secondary Objectives*
+
+**Profiles:**
+
+. **Necron Secondary Objectives:** Description:Necron Secondary Objectives are shown in summary at the bottom of the list output.|Codex: Necrons p69
+
+&nbsp;
+
+**Battle Size [6CP]:** 2. Incursion (51-100 Total PL / 501-1000 Points)  [6CP]
+
+. **Categories:** *Configuration*
+
+&nbsp;
+
+**Detachment Command Cost**
+
+. **Categories:** *Configuration*
+
+&nbsp;
+
+**Dynasty Choice:** Dynasty: Szarekhan
+
+. **Categories:** *Configuration*
+
+. **Dynastic Code:** *Uncanny Artificers*
+
+**Profiles:**
+
+. **Uncanny Artificers:** Description:Each time a model with this code would lose a wound as the result of a mortal wound, roll one D6; on a 5+ that wound is not lost.  Each time a unit with this code is selected to shoot or fight, you can re-roll one wound roll when making that unit's attacks.  When the Protocol of the Undying Legions becomes active for your army, if every unit in your army (excluding DYNASTIC AGENT and C'TAN SHARD units) has this code, you can select both of that command protocol's directives instead of just one.|Codex: Necrons p53
+
+&nbsp;
+
+**+ HQ [6 PL, 100pts] +**
+
+&nbsp;
+
+**Overlord [6 PL, 100pts]:** Relic (Szarekhan): The Sovereign Coronal, Warlord, Warlord Trait (Codex 4): Thrall of the Silent King
+
+. **Categories:** *Character, Faction: <Dynasty>, Faction: Necrons, Infantry, Overlord, Noble, HQ, Warlord*
+
+. **Rules:** *Command Protocols, Living Metal*
+
+. **Abilities:** *Command-wave Amplifier (Aura), My Will Be Done, Phase Shifter, Relentless March (Aura), Synthetic Cortex Enhancer (Aura), The Sovereign Coronal*, **Unit:** *Overlord*, **Warlord Trait:** *Thrall of the Silent King*
+
+
+. **Tachyon Arrow and Hyperphase Glaive [5pts]:** Hyperphase Glaive, Tachyon Arrow [5pts]
+
+. . **Weapon:** *Hyperphase Glaive, Tachyon Arrow*
+
+**Profiles:**
+
+. **Command-wave Amplifier (Aura):** Description:While a friendly SZAREKHAN unit is within 9" of the bearer, that unit benefits from the selected directive of your army's active command protocol while it is within 9" of a friendly NECRONS CHARACTER model (excluding C'TAN SHARD models), instead of 6".|Codex: Necrons p67
+
+. **My Will Be Done:** Description:In your Command phase, you can select one friendly <DYNASTY> CORE unit within 9" of this unit. Until the start of your next Command phase, each time a model in that unit makes an attack, add 1 to that attack's hit roll. Each unit can only be selected for this ability once per phase.|Codex: Necrons p88
+
+. **Phase Shifter:** Description:This model has a 4+ invulnerable Save.|Codex: Necrons p82
+
+. **Relentless March (Aura):** Description:While a friendly <DYNASTY> CORE unit is within 6" of this model, each time that unit is selected to make a Normal Move or Advance, until the end of the phase, add 1" to the Move characteristic of models in that unit.|Codex: Necrons p86
+
+. **Synthetic Cortex Enhancer (Aura):** Description:While a friendly SZAREKHAN CORE unit is within 9" of the bearer, that unit benefits from both directives of your army's active command protocol, instead of just the selected one.|Codex: Necrons p67
+
+. **The Sovereign Coronal:** Description:The bearer has the following abilities: "Command-wave Amplifier (Aura)" and "Synthetic Cortex Enhancer (Aura)".|Codex: Necrons p67
+
+. **Overlord:** M:6"|WS:2+|BS:2+|S:5|T:5|W:5|A:4|Ld:10|Save:3+|Codex: Necrons p89
+
+. **Thrall of the Silent King:** Description:Add 3" to the range of this WARLORD's aura abilities (to a maximum of 9"). In addition, when this WARLORD uses its My Will Be Done, The Lord's Will or Adaptive Strategy abilities, you can select one friendly <DYNASTY> CORE unit within 12" of this WARLORD instead of 9"|Codex: Necrons p64
+
+. **Hyperphase Glaive:** Range:Melee|Type:Melee|S:+2|AP:-3|D:D3|Abilities:-|Codex: Necrons p114
+
+. **Tachyon Arrow:** Range:120"|Type:Assault 1|S:12|AP:-5|D:D6|Abilities:The bearer can only shoot with this weapon once per battle.|Codex: Necrons p113
+
+&nbsp;
+
+**+ Troops [10 PL, 215pts] +**
+
+&nbsp;
+
+**Immortals [4 PL, 85pts]:** Gauss Blaster, 5x Immortal [85pts]
+
+. **Categories:** *Faction: <Dynasty>, Faction: Necrons, Immortals, Infantry, Core, Troops*
+
+. **Rules:** *Command Protocols, Objective Secured, Reanimation Protocols*
+
+. **Unit:** *Immortal*, **Weapon:** *Gauss Blaster*
+
+**Profiles:**
+
+. **Immortal:** M:5"|WS:3+|BS:3+|S:4|T:5|W:1|A:2|Ld:10|Save:3+|Codex: Necrons p92
+
+. **Gauss Blaster:** Range:30"|Type:Rapid Fire 1|S:5|AP:-2|D:1|Abilities:-|Codex: Necrons p112
+
+&nbsp;
+
+**Necron Warriors [6 PL, 130pts]**
+
+. **Categories:** *Faction: <Dynasty>, Faction: Necrons, Infantry, Core, Necron Warriors, Troops*
+
+. **Rules:** *Command Protocols, Objective Secured, Reanimation Protocols*
+
+. **Abilities:** *Their Number Is Legion*
+
+
+. **10x Necron Warrior (Gauss Flayer) [130pts]:** 10x Gauss Flayer
+
+. . **Unit:** *Necron Warrior*, **Weapon:** *Gauss Flayer*
+
+**Profiles:**
+
+. **Their Number Is Legion:** Description:Re-roll Reanimation Protocol rolls of 1 made for this unit.|Codex: Necrons p92
+
+. **Necron Warrior:** M:5"|WS:3+|BS:3+|S:4|T:4|W:1|A:1|Ld:10|Save:4+|Codex: Necrons p92
+
+. **Gauss Flayer:** Range:24"|Type:Rapid Fire 1|S:4|AP:-1|D:1|Abilities:-|Codex: Necrons p112
+
+&nbsp;
+
+**+ Elites [23 PL, 455pts] +**
+
+&nbsp;
+
+**C'tan Shard of the Void Dragon [18 PL, 350pts]:** Canoptek Tail Blades, Power of the C'tan: Transdimensional Thunderbolt, Power of the C'tan: Voltaic Storm, Spear of the Void Dragon
+
+. **Categories:** *C'tan Shard, Faction: Necrons, Character, Fly, Monster, C'tan Shard of the Void Dragon, Elites*
+
+. **Rules:** *Living Metal, Powers of the C'tan (Instructions)*
+
+. **Abilities:** *Enslaved Star God, Matter Absorption, Necrodermis, Powers of the C'tan (Void Dragon)*, **Explosion:** *Reality Unravels*, **Power of the C'tan:** *Transdimensional Thunderbolt, Voltaic Storm*, **Unit:** *C'tan Shard of the Void Dragon*, **Weapon:** *Canoptek Tail Blades, Spear of the Void Dragon (Melee), Spear of the Void Dragon (Shooting)*
+
+**Profiles:**
+
+. **Enslaved Star God:** Description:This model can never have a Relic or a Warlord Trait. In addition, enemy models can ignore the Look Out, Sir rule when selecting this model as the target of a ranged attack.|Codex: Necrons p98
+
+. **Matter Absorption:** Description:At the end of each phase, roll one D6 for each enemy VEHICLE model destroyed as a result of an attack made by this model or a C'tan Power used by this model that phase; for each 2+, this model regains 1 lost wound (to a maximum of 3 regained wounds per phase).|Codex: Necrons p99
+
+. **Necrodermis:** Description:This model has a 4+ invulnerable save. In addition, this model cannot lose more than 3 wounds in the same phase. Any wounds that would be lost after that point are not lost.|Codex: Necrons p98
+
+. **Powers of the C'tan (Void Dragon):** Description:This model knows the Voltaic Storm C'tan Power and one other C'tan Power from the Powers of the C'tan. At the end of your Movement phase, if this model did not Advance or Fall Back that phase, it can use two of the C'tan Powers it knows. It cannot use the same C'tan Power more than once per turn.|Codex: Necrons p99
+
+. **Reality Unravels:** Dice Roll:4+|Distance:6"|Mortal Wounds:D3|Codex: Necrons p98
+
+. **Transdimensional Thunderbolt:** Description:Select one enemy unit within 24" of and visible to this C'TAN SHARD (an enemy CHARACTER unit with a Wounds characteristic of 9 or less cannot be selected for this power while it is within 3" of another enemy unit, unless that CHARACTER unit is the closest visible enemy unit). Roll one D6; on a 2+, that unit suffers D3 mortal wounds. Then, roll one D6 for each other enemy unit within 3" of the selected unit; on a 4+, that unit suffers 1 mortal wound. If this C'TAN SHARD is a TESSERACT VAULT, roll for each other enemy unit within 6" of the selected unit, instead of 3".|Codex: Necrons p68
+
+. **Voltaic Storm:** Description:Select one enemy unit within 18" of and visible to this C'TAN SHARD (an enemy CHARACTER unit with a Wounds characteristic of 9 or less cannot be selected for this power while it is within 3" of another enemy unit, unless that CHARACTER unit is the closest visible enemy unit). Roll one D6; on a 2+ that unit suffers D3 mortal wounds (it suffers D6 mortal wounds instead if it has the VEHICLE keyword) and, until the start of your next turn, if that unit is a VEHICLE whose characteristics change as it loses wounds, then it halves the number of wounds it has remaining when determining what characteristics to use.|Codex: Necrons p68
+
+. **C'tan Shard of the Void Dragon:** M:8"|WS:2+|BS:2+|S:6|T:7|W:9|A:5|Ld:10|Save:3+|Codex: Necrons p99
+
+. **Canoptek Tail Blades:** Range:Melee|Type:Melee|S:User|AP:-2|D:1|Abilities:Each time the bearer fights, it makes D6 additional attacks with this weapon.|Codex: Necrons p114
+
+. **Spear of the Void Dragon (Melee):** Range:Melee|Type:Melee|S:+3|AP:-4|D:D6|Abilities:Each time an attack made with this weapon is allocated to a VEHICLE model, that attack has a Damage characteristic of D3+3.|Codex: Necrons p115
+
+. **Spear of the Void Dragon (Shooting):** Range:12"|Type:Heavy 1|S:9|AP:-4|D:D6|Abilities:Each time an attack is made with this weapon, if a hit is scored, draw a straight line between the closest point of this model's base (or hull) and that of the closest model in the target unit. Make one wound roll against the target unit, and each other unit this line passes over. Each time an attack made with this weapon is allocated to a VEHICLE model, that attack has a Damage characteristic of D3+3.|Codex: Necrons p113
+
+&nbsp;
+
+**Skorpekh Destroyers [5 PL, 105pts]**
+
+. **Categories:** *Faction: <Dynasty>, Faction: Necrons, Faction: Destroyer Cult, Infantry, Skorpekh Destroyers, Elites*
+
+. **Rules:** *Command Protocols, Living Metal, Reanimation Protocols*
+
+. **Abilities:** *Hardwired for Destruction*
+
+
+. **Skorpekh Destroyer (Reap-Blade) [35pts]:** Hyperphase Reap-Blade
+
+. . **Unit:** *Skorpekh Destroyer*, **Weapon:** *Hyperphase Reap-Blade*
+
+. **2x Skorpekh Destroyer (Thresher) [70pts]:** 2x Hyperphase Threshers
+
+. . **Unit:** *Skorpekh Destroyer*, **Weapon:** *Hyperphase Threshers*
+
+**Profiles:**
+
+. **Hardwired for Destruction:** Description:Each time this model makes an attack, re-roll a hit roll of 1.|Codex: Necrons p86
+
+. **Skorpekh Destroyer:** M:8"|WS:3+|BS:3+|S:5|T:5|W:3|A:3|Ld:10|Save:3+|Codex: Necrons p96
+
+. **Hyperphase Reap-Blade:** Range:Melee|Type:Melee|S:+2|AP:-4|D:3|Abilities:-|Codex: Necrons p114
+
+. **Hyperphase Threshers:** Range:Melee|Type:Melee|S:User|AP:-3|D:2|Abilities:Each time the bearer fights, it makes 1 additional attack with this weapon.|Codex: Necrons p114
+
+&nbsp;
+
+**+ Fast Attack [2 PL, 45pts] +**
+
+&nbsp;
+
+**Canoptek Scarab Swarms [2 PL, 45pts]**
+
+. **Categories:** *Canoptek Scarab Swarms, Faction: Canoptek, Faction: <Dynasty>, Faction: Necrons, Fly, Swarm, Fast Attack*
+
+. **Rules:** *Command Protocols, Living Metal, Reanimation Protocols*
+
+
+. **3x Canoptek Scarab Swarm [45pts]:** 3x Feeder Mandibles
+
+. . **Unit:** *Canoptek Scarab Swarm*, **Weapon:** *Feeder Mandibles*
+
+**Profiles:**
+
+. **Canoptek Scarab Swarm:** M:10"|WS:4+|BS:-|S:3|T:3|W:4|A:4|Ld:10|Save:6+|Codex: Necrons p101
+
+. **Feeder Mandibles:** Range:Melee|Type:Melee|S:User|AP:0|D:1|Abilities:Each time an attack is made with this weapon, an unmodified hit roll of 6 automatically wounds the target.|Codex: Necrons p114
+
+&nbsp;
+
+**+ Heavy Support [7 PL, 140pts] +**
+
+&nbsp;
+
+**Canoptek Doomstalker [7 PL, 140pts]:** Doomsday Blaster, Twin Gauss Flayer
+
+. **Categories:** *Faction: <Dynasty>, Faction: Necrons, Faction: Canoptek, Monster, Canoptek Doomstalker, Heavy Support*
+
+. **Rules:** *Command Protocols, Living Metal*
+
+. **Abilities:** *Containment Field, Sentinel Construct*, **Explosion:** *Explodes (5/6/D3)*, **Unit:** *Canoptek Doomstalker [1] (7+ Wounds Remaining), Canoptek Doomstalker [2] (4-6 Wounds Remaining), Canoptek Doomstalker [3] (1-3 Wounds Remaining)*, **Weapon:** *Doomsday Blaster (High Power), Doomsday Blaster (Low Power), Twin Gauss Flayer*
+
+**Profiles:**
+
+. **Containment Field:** Description:This model has a 4+ invulnerable save.|Codex: Necrons p106
+
+. **Sentinel Construct:** Description:Each time an enemy unit declares a charge against a friendly <DYNASTY> or DYNASTIC AGENT unit within 6" of this model, unless this model is within Engagement Range of any enemy models, this model can fire Overwatch at the charging unit as if it were also a target of that charge (this is in addition to any other units that are firing Overwatch). Each time this model fires Overwatch, it makes attacks with its doomsday blaster using the high power profile.|Codex: Necrons p106
+
+. **Explodes (5/6/D3):** Dice Roll:5+|Distance:6"|Mortal Wounds:D3|Codex: Necrons p106
+
+. **Canoptek Doomstalker [1] (7+ Wounds Remaining):** M:10"|WS:4+|BS:4+|S:6|T:6|W:12|A:3|Ld:10|Save:3+|Codex: Necrons p106
+
+. **Canoptek Doomstalker [2] (4-6 Wounds Remaining):** M:8"|WS:5+|BS:4+|S:6|T:6|W:12|A:2|Ld:10|Save:3+|Codex: Necrons p106
+
+. **Canoptek Doomstalker [3] (1-3 Wounds Remaining):** M:6"|WS:6+|BS:4+|S:6|T:6|W:12|A:1|Ld:10|Save:3+|Codex: Necrons p106
+
+. **Doomsday Blaster (High Power):** Range:48"|Type:Heavy D6|S:10|AP:-5|D:D6|Abilities:Blast. The bearer can only make attacks with this profile if it Remained Stationary during its previous Movement phase.|Codex: Necrons p112
+
+. **Doomsday Blaster (Low Power):** Range:24"|Type:Heavy D6|S:8|AP:-2|D:D3|Abilities:Blast|Codex: Necrons p112
+
+. **Twin Gauss Flayer:** Range:24"|Type:Rapid Fire 2|S:4|AP:-1|D:1|Abilities:-|Codex: Necrons p113
+
+&nbsp;
+
+**++ Roster Rules ++**
+
+
+. **Dynastic Agents and Star Gods:** DYNASTIC AGENT and C'TAN SHARD units can be included in a NECRONS detachment without preventing other units in that Detachment from gaining a Dynastic Code. DYNASTIC AGENT and C'TAN SHARD units never gain a Dynastic Code.  You can include a maximum of one C'TAN SHARD model in each NECRONS Detachment in your army. (Codex: Necrons p51)
+
+. **The Royal Court:** When mustering your army, if it contains THE SILENT KING model, that model must be selected as your WARLORD. Otherwise, if your army contains a PHAERON model, that model must be selected as your WARLORD. Otherwise, if your army caontains an OVERLORD model, that model must be selected as your WARLORD. Otherwise, if your army contains a LORD model, that model must be selected as your WARLORD. If your army contains none of the listed models, select your WARLORD as normal. (Codex: Necrons p51)
+
+&nbsp;
+
+**++ Selection Rules ++**
+
+
+. **Command Protocols:** If every unit from your army (excluding DYNASTIC AGENT, C'TAN SHARD and UNALIGNED units) is from the same dynasty, and you select a NOBLE model to be your WARLORD, this unit is eligible to benefit from this ability and the following rules apply.  
+
+After both sides have deployed, but before you have determined who will have the first turn, you must assign a different one of the command protocols to each of the first five battle rounds, and note this down secretly on your army roster.
+
+At the start of each battle round, if any NOBLE units from your army are on the battlefield, the command protocol that you assigned to that battle round becomes active for your army until the end of that battle round. Each command protocol is made up of two directives. When a command protocol becomes active for your army, reveal it to your opponent and select one of its directives. Until the assigned command protocol stops being active, while a unit that is eligible to benefit from this ability is within 6" of a friendly NECRONS CHARACTER model (excluding C'TAN SHARD models), that unit benefits from the selected directive.
+
+If the battle lasts for more than five battle rounds, then until the end of the battle, whichever command protocol was active in the fifth battle round remains active. (Codex: Necrons p81)
+
+. **Command Protocols - Protocol of the Conquering Tyrant:** 
+Directive 1: Add 3" to the range of this unit's aura abilities (to a maximum of 12") and increase the range of the following abilities this unit has by 3" (to a maximum of 12"): Lord's Will, My Will Be Done, Rites of Reanimation.
+
+Directive 2: This unit is eligible to shoot in a turn in which it Fell Back, but if it does, then until the end of the turn, each time a model in this unit makes a ranged attack, subtract 1 from that attack's hit roll. (Codex: Necrons p81)
+
+. **Command Protocols - Protocol of the Eternal Guardian:** 
+Directive 1: Each time an attack is made against this unit, if it did not make a Normal Move, Advance or Fall Back this battle round, this unit receives the benefit of Light cover, as described in the Warhammer 40,000 Core Book.
+
+Directive 2: Each time an enemy unit declares a charge against this unit, if this unit is not within Engagement Range of any enemy units, it can either Hold Steady or Set to Defend. 
+-If it Holds Steady, then until the end of the phase, any Overwatch attacks made by models in that unit score hits on unmodified rolls of 5+ instead of 6. 
+-If it Sets to Defend, then until the end of the phase, it cannot fire Overwatch, but until the end of the next Fight phase, each time a model in that unit makes a melee attack, add 1 to that attack's hit roll. (Codex: Necrons p81)
+
+. **Command Protocols - Protocol of the Hungry Void:** 
+Directive 1: Each time a model in this unit makes a melee attack, on an unmodified wound roll of 6, improve the Armour Penetration characteristic of that attack by 1
+
+Directive 2: Each time a model in this unit makes a melee attack, if this unit made a charge move, was charged or performed a Heroic Intervention this turn, add 1 to that attack's Strength characteristic. (Codex: Necrons p81)
+
+. **Command Protocols - Protocol of the Sudden Storm:** 
+Directive 1: Add 1" to the Move characteristic of models in this unit.
+
+Directive 2: If this unit is performing an action, it can still make attacks with ranged weapons without that action failing. (Codex: Necrons p81)
+
+. **Command Protocols - Protocol of the Undying Legions:** 
+Directive 1: Each time this unit uses its Living Metal ability, each model in this unit regains 1 additional lost wound.
+
+Directive 2: Each time you make Reanimation Protocol rolls for this unit, you can re-roll one of the dice. (Codex: Necrons p81)
+
+. **Command Protocols - Protocol of the Vengeful Stars:** 
+Directive 1: Each time a model in this unit makes a ranged attack, on an unmodified wound roll of 6, improve the Armour Penetration characteristic of that attack by 1.
+
+Directive 2: Each time a model in this unit makes a ranged attack that targets a unit within half range, the target does not receive the benefits of cover to its saving throw against that attack. (Codex: Necrons p81)
+
+. **Living Metal:** At the start of your Command phase, each model in this unit regains 1 lost wound. (Codex: Necrons p80)
+
+. **Objective Secured:** A player controls an objective marker if they have any models with this ability within range of that objective marker, even if there are more enemy models within range of that objective marker. If an enemy model within range of an objective marker also has this ability (or a similar ability), then the objective marker is controlled by the player who has the most models within range of that objective marker as normal. (Warhammer 40,000 Core Book p237)
+
+. **Powers of the C'tan (Instructions):** Before the battle, generate the Powers of the C'tan for C'TAN SHARD units from your army using the table below. You can either roll one D6 to generate each power randomly (re-rolling duplicate results), or you can select which powers each unit knows. If selecting powers, a power cannot be selected for a second time until all other powers have been selected at least once by units in your army, and no unit can know the same power more than once. Write down any Powers of the C'tan your units know on your army roster.
+
+1) Antimatter Meteor
+2) Time's Arrow
+3) Sky of Falling Stars
+4) Cosmic Fire
+5) Seismic Assault
+6) Transdimensional Thunderbolt (Codex: Necrons p68)
+
+. **Reanimation Protocols:** Each time an enemy unit shoots or fights, after it makes its attacks, if any models in this unit were destroyed as a result of those attacks but this unit was not destroyed, this unit's reanimation protocols are enacted and those destroyed models begin to reassemble.
+
+Each time a unit's reanimation protocols are enacted, make Reanimation Protocol rolls for that unit by rolling a number of D6 equal to the combined Wounds characteristics of all the reassembling models. Each Reanimation Protocol roll of 5+ is put into a pool. A Reanimation Protocol roll can never be modified by more than -1 or +1.
+
+If the number of dice in that pool is greater than or equal to the Wounds characteristic of any of the reassembling models, select one of those models to be Reanimated. A Reanimated model:
+	-Is added back to its unit with its full wounds remaining.
+	-Can only set up within Engagement Range of enemy units that are already within Engagement Range of the Reanimated model's unit.
+	-Cannot, if it is your Charge phase, be set up closer to any enemy units that are targets of a charge declared by its unit this phase.
+	-No longer counts as having been destroyed for the purposes of Morale tests this turn.
+
+You then reduce the number of dice in that pool by a number equal to the Wounds characteristic of the Reanimated model and repeat this process until either there are no more reassembling models, or the number of dice remaining in the pool is less than the Wounds characteristic of any of the reassembling models. Any models that did not Reanimate fail to reassemble, and any dice remaining in the pool are discarded. (Codex: Necrons p80)
+
+. **Secondary Objective - Ancient Machineries:** 
+Shadow Operations Objective: If you selected this secondary objective, then after both sides have finished deploying, starting with your opponent, the players
+alternate selecting objective markers that are not within any player’s deployment zone to be Ancient Machinery objective markers, until three objective markers have been selected (if there are only one or two such objective markers, then only those objective markers are Ancient Machinery objective markers).
+
+NECRONS CORE or NECRONS CANOPTEK units from your army can attempt the following action:
+
+Awaken Ancient Machinery (Action): At the end of your Movement phase, one or more NECRONS CORE or NECRONS CANOPTEK units from your army can start to perform this action. Each unit from your army that starts to perform this action must be in range of a different Ancient Machinery objective marker. A unit cannot start this action while there are any enemy units (excluding AIRCRAFT) in range of the same objective marker. The action is completed at the end of your next Command phase, provided the unit attempting the action is still within range of that Ancient Machinery objective marker.
+
+Score 3 victory points each time a unit from your army completes the Awaken Ancient Machinery action. (Codex: Necrons p69(e))
+
+. **Secondary Objective - Code of Combat:** 
+No Mercy, No Respite Objective: Score 3 victory points at the end of the battle for each enemy unit that was destroyed by a NECRONS NOBLE unit from your army. (Codex: Necrons p69)
+
+. **Secondary Objective - Purge the Vermin:** 
+Battlefield Supremacy Objective: Score 2 victory points at the end of your turn for each table quarter that does not have any enemy units (excluding AIRCRAFT units) wholly within it. This objective cannot be scored in the first battle round. (Codex: Necrons p69)
+
+. **Secondary Objective - The Treasures of Aeons:** 
+Battlefield Supremacy Objective: If you selected this secondary objective, then after both sides have finished deploying, your opponent selects 3 objective markers on the battlefield. Score a number of victory points at the end of your turn if you control one or more of those objective markers, as shown in the table below:
+
+1 Marker(s): 2 Points
+2 Marker(s): 3 Points
+3 Marker(s): 5 Points (Codex: Necrons p69)
+
+&nbsp;
+
+Created with [BattleScribe](https://www.battlescribe.net)
